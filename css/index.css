@@ -162,7 +162,7 @@ footer {
 
 /* Media Queries */
 
-@media (min-width: 500px) {
+@media (min-width: 501px) {
   .container {
     width: 95%;
     margin: auto;
@@ -221,6 +221,7 @@ footer {
     width: 95%;
     margin: auto;
   }
+  
   .navigation {
     display: flex;
     flex-direction: row;
